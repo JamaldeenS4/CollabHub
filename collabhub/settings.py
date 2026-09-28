@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'accounts.apps.AccountsConfig',
     'projects.apps.ProjectsConfig',
     'teams.apps.TeamsConfig',
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
